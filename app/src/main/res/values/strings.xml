@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">[Uygulama Adı]</string>
+    <string name="bilgiyazi">Hoşgeldin!</string>
+    <string name="kladi">Kullanıcı Adı:</string>
+    <string name="sifre">Şifre:</string>
+    <string name="girisyapbtn">Giriş Yap</string>
+    <string name="sifreunuttm">Şifremi Unuttum</string>
+    <string name="hesapolustur">Hesap Oluştur</string>
+</resources>
